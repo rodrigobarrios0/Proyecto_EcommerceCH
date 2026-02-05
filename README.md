@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Rodrigo</h1>
 <h3 align="center">Este proyecto esta orientado en un e-commerce de ropa y se iran agregando funcionalidades según se vayan adquiriendo conocimientos.</h3>
 
-- 👨‍💻 Mi proyecto esta disponible en https://ecommerce-ch-jet.vercel.app/index.html
+- 👨‍💻 Mi proyecto esta disponible en [https://ecommerce-ch-jet.vercel.app/index.html](https://ecommerce-ch.vercel)
 
 - 📫 Podés contactarme en **Rodrigobarrios_10@hotmail.com**
 
